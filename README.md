@@ -1,4 +1,4 @@
-# MAF Foundry Labs
+# MAF Foundry Labs com .NET
 
 Laboratórios práticos sobre **Microsoft Agent Framework (MAF)**, **Azure AI Foundry**, agentes, workflows, automações inteligentes e padrões modernos para construção de soluções agentic em .NET.
 
