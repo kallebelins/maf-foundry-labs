@@ -1,6 +1,3 @@
-Abaixo está uma versão de `README.md` com foco em **engajamento, valor, visão do repositório e convite para acompanhar os laboratórios**, sem revelar a estrutura interna das pastas dos projetos. Usei a ideia central do arquivo anexo, especialmente a separação por categorias de samples/labs e a preocupação com documentação, insights e rastreabilidade. 
-
-````md
 # MAF Foundry Labs
 
 Laboratórios práticos sobre **Microsoft Agent Framework (MAF)**, **Azure AI Foundry**, agentes, workflows, automações inteligentes e padrões modernos para construção de soluções agentic em .NET.
